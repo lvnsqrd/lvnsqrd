@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **@lvnsqrd**
+- 👀 I’m interested in **Python**
+- 🌱 I’m currently learning **Python, Django, JavaScript, HTML, CSS**
+- 📫 You can reach me here: **[t.me/lvnsqrd](t.me/lvnsqrd)**
